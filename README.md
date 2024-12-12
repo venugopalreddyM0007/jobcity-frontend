@@ -1,7 +1,6 @@
 # Job-City Automated Job Application Platform
 
 ## Overview
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVishwamAI%2Fjobcity&countColor=%23ff8a65)
 ### Supported Platforms
 | Platform | Type    | Status            |
 |----------|---------|-------------------|
@@ -44,7 +43,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/VishwamAI/jobcity
+    git clone https://github.com/jobcity
     ```
 
 2. Navigate to the project directory:
@@ -125,7 +124,7 @@ Add your changes or updates to the changelog. For example, document the changes 
 
 ## License
 
-**Job-City** is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
+**Job-City** is open-source and available under the MIT License. See the [LICENSE]file for more details.
 
 ## Learn More
 
